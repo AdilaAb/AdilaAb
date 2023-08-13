@@ -4,7 +4,7 @@
 <div align="center">
 <img src="https://www.techfirefly.com/static/media/HomepageBanner.9fba1d92.gif"></div>
 
- <h3 align="center">H͢i͢ t͢h͢e͢r͢e͢ 👋M͢y͢ n͢a͢m͢e͢ i͢s͢ Adila. I͢'m͢ a͢ S͢o͢ft͢w͢a͢r͢e͢ Q͢A͢ A͢u͢t͢o͢m͢a͢t͢i͢o͢n͢ E͢n͢g͢i͢n͢e͢e͢r͢. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="55"></h3> 
+ <h3 align="center">Hi there 👋My name is Adila. I'm a Software QA Automation Engeneer. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="55"></h3> 
 
 
 <div align="center">
@@ -13,7 +13,7 @@
   </a>
 </div>
 <div align="center">
-<pre><h3>L͢a͢n͢g͢u͢a͢g͢e͢s͢ a͢n͢d͢ t͢o͢o͢l͢s͢ I͢ u͢s͢e͢:</h3></pre>
+<pre><h3>Languages and tools I use:</h3></pre>
 </div>
 
 <div align="center">
@@ -40,7 +40,7 @@ Selenium Webdriver <img src="https://upload.wikimedia.org/wikipedia/commons/thum
 </div>
 
 <div align="center">
-<pre><h4>I͢'m͢ p͢a͢s͢s͢i͢o͢n͢a͢t͢e͢ a͢b͢o͢u͢t͢ t͢r͢a͢v͢e͢l͢l͢i͢n͢g͢ with my family</h4></pre>
+<pre><h4>I'm passionate about traveling with my family</h4></pre>
 </div>
 
 
