@@ -40,7 +40,7 @@ Selenium Webdriver <img src="https://upload.wikimedia.org/wikipedia/commons/thum
 </div>
 
 <div align="center">
-<pre><h4>I͢'m͢ p͢a͢s͢s͢i͢o͢n͢a͢t͢e͢ a͢b͢o͢u͢t͢ a͢c͢t͢i͢v͢e͢ s͢p͢o͢r͢t͢s͢, l͢e͢a͢r͢n͢i͢n͢g͢ f͢o͢r͢e͢i͢g͢n͢ l͢a͢n͢g͢u͢a͢g͢e͢s͢, t͢r͢a͢v͢e͢l͢l͢i͢n͢g͢ a͢n͢d͢ m͢y͢ f͢u͢r͢ b͢a͢b͢i͢e͢s͢🐱‍👓</h4></pre>
+<pre><h4>I͢'m͢ p͢a͢s͢s͢i͢o͢n͢a͢t͢e͢ a͢b͢o͢u͢t͢ t͢r͢a͢v͢e͢l͢l͢i͢n͢g͢ with my family</h4></pre>
 </div>
 
 
