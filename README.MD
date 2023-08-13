@@ -4,7 +4,7 @@
 <div align="center">
 <img src="https://www.techfirefly.com/static/media/HomepageBanner.9fba1d92.gif"></div>
 
- <h3 align="center">H͢i͢ t͢h͢e͢r͢e͢ 👋M͢y͢ n͢a͢m͢e͢ i͢s͢ V͢a͢l͢e͢r͢i͢e͢. I͢'m͢ a͢ S͢o͢ft͢w͢a͢r͢e͢ Q͢A͢ A͢u͢t͢o͢m͢a͢t͢i͢o͢n͢ E͢n͢g͢i͢n͢e͢e͢r͢. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="55"></h3> 
+ <h3 align="center">H͢i͢ t͢h͢e͢r͢e͢ 👋M͢y͢ n͢a͢m͢e͢ i͢s͢ Adila. I͢'m͢ a͢ S͢o͢ft͢w͢a͢r͢e͢ Q͢A͢ A͢u͢t͢o͢m͢a͢t͢i͢o͢n͢ E͢n͢g͢i͢n͢e͢e͢r͢. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="55"></h3> 
 
 
 <div align="center">
@@ -43,8 +43,6 @@ Selenium Webdriver <img src="https://upload.wikimedia.org/wikipedia/commons/thum
 <pre><h4>I͢'m͢ p͢a͢s͢s͢i͢o͢n͢a͢t͢e͢ a͢b͢o͢u͢t͢ a͢c͢t͢i͢v͢e͢ s͢p͢o͢r͢t͢s͢, l͢e͢a͢r͢n͢i͢n͢g͢ f͢o͢r͢e͢i͢g͢n͢ l͢a͢n͢g͢u͢a͢g͢e͢s͢, t͢r͢a͢v͢e͢l͢l͢i͢n͢g͢ a͢n͢d͢ m͢y͢ f͢u͢r͢ b͢a͢b͢i͢e͢s͢🐱‍👓</h4></pre>
 </div>
 
-<div align="center">
-<img src="https://techcrunch.com/wp-content/uploads/2015/08/safe_image.gif?w=1390&crop=1" style="width:300px"></div>
 
 
 <!--
