@@ -4,7 +4,7 @@
 <div align="center">
 <img src="https://img.freepik.com/free-vector/bug-fixing-software-testing-computer-virus-searching-tool-devops-web-optimization-antivirus-app-magnifier-cogwheel-monitor-design-element_335657-2640.jpg?t=st=1691892052~exp=1691892652~hmac=a3080faa50597e200612807df586d3fd23c64dfe533f4c58d370042b4b0cfa8e"></div>
 
- <h3 align="center">Hi there 👋My name is Adila. I'm a Software QA Automation Engeneer. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="55"></h3> 
+ <h3 align="center">Hi there 👋My name is Adila. I'm a Software QA Automation Engeneer. <img src="https://dms-exp2.licdn.com/playlist/vid/D4D05AQGEgqvej_0pdQ/feedshare-ambry-analyzed_servable_progressive_video/0/1689842184654?e=1693159200&v=beta&t=3uYazKxYCDPMOZ9KcU8VHuhrEyoMRnYZpOTMCpu3j6o" width="55"></h3> 
 
 
 <div align="center">
