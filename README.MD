@@ -39,6 +39,14 @@ Selenium Webdriver <img src="https://upload.wikimedia.org/wikipedia/commons/thum
 <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original-wordmark.svg" title="PyCharm" alt="PyCharm"width="65"/>&nbsp;
 </div>
 
+#### My favorite (QA and programming related) quotes:
+> - Everything is easy, when you know how to do this.  
+> - Don't talk, just try to do.
+> - Practice makes perfect
+
+
+
+
 <div align="center">
 <pre><h4>I'm passionate about traveling with my family</h4></pre>
 </div>
